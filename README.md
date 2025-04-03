@@ -20,7 +20,7 @@ Git | MySQL | HTML5/CSS3 | Figma | Python
 
 ### 🌍 EcoAnalytic - Histórico de Energías Renovables
 [![GitHub Repo](https://img.shields.io/badge/Ver_Código-ECoAnalytic-2CA5E0?style=flat&logo=github)](https://github.com/Alejitocx/EcoAnalytic)
-- **Stack:** React + Python + CSS3
+- **Stack:** React + TypeScript + CSS3
 - **Funcionalidades:**
   - Visualización interactiva de datos globales
   - Filtros por país y tipo de energía
@@ -28,7 +28,7 @@ Git | MySQL | HTML5/CSS3 | Figma | Python
 
 ### 📊 HRMS - Gestión de Recursos Humanos
 [![GitHub Repo](https://img.shields.io/badge/Ver_Código-HRMS_System-2CA5E0?style=flat&logo=github)](https://github.com/Alejitocx/SOFTWARE-HRMS)
-- **Stack:** Java + SpringBoot + MySQL
+- **Stack:** Java + PostgreSQL
 - **Funcionalidades:**
   - Gestión de nóminas y empleados
   - Sistema de autenticación JWT
