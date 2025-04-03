@@ -44,4 +44,4 @@ Git | MySQL | HTML5/CSS3 | Figma
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu_usuario_github&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alejitocx&show_icons=true&theme=radical)
