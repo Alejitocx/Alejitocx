@@ -12,36 +12,43 @@
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 
 **Otras herramientas:**  
-Git | MySQL | HTML5/CSS3 | Figma
+Git | MySQL | HTML5/CSS3 | Figma | Python
 
 ---
 
 ## 💡 Proyectos Destacados
 
-### 🧠 Sistema de Recomendación con IA
-- **Stack:** Python + TensorFlow + Flask
-- **Descripción:** Modelo de ML para sugerencias personalizadas
-- [![GitHub](https://img.shields.io/badge/Código-Repo-blue)](enlace_github_proyecto)
+### 🌍 EcoAnalytic - Histórico de Energías Renovables
+[![GitHub Repo](https://img.shields.io/badge/Ver_Código-ECoAnalytic-2CA5E0?style=flat&logo=github)](https://github.com/Alejitocx/EcoAnalytic)
+- **Stack:** React + Python + CSS3
+- **Funcionalidades:**
+  - Visualización interactiva de datos globales
+  - Filtros por país y tipo de energía
+  - Gráficos comparativos temporales
 
-### 📱 Aplicación de Gestión Académica
-- **Stack:** React + SpringBoot + PostgreSQL
-- **Descripción:** Plataforma full-stack para administración universitaria
-- [![GitHub](https://img.shields.io/badge/Código-Repo-blue)](enlace_github_proyecto)
+### 📊 HRMS - Gestión de Recursos Humanos
+[![GitHub Repo](https://img.shields.io/badge/Ver_Código-HRMS_System-2CA5E0?style=flat&logo=github)](https://github.com/Alejitocx/SOFTWARE-HRMS)
+- **Stack:** Java + SpringBoot + MySQL
+- **Funcionalidades:**
+  - Gestión de nóminas y empleados
+  - Sistema de autenticación JWT
+  - Panel administrativo con estadísticas
 
 ---
 
 ## 📚 Actualmente Aprendiendo
-- Optimización de APIs REST con SpringBoot
-- Patrones de diseño en React (Context API + Hooks)
-- Integración de IA en aplicaciones web
+- Integración de APIs REST con Spring Security
+- Visualización de datos con D3.js
+- Arquitectura hexagonal en Java
 
 ---
 
 ## 📫 Contáctame
 - ✉️ **Email:** alejogranda8@gmail.com
 - 📱 **WhatsApp:** +57 313 6371539
-- 🌐 **Portafolio:** [En construcción 🚧](enlace_portafolio)
+- 🌐 **Portafolio:** [En construcción 🚧](https://alejitocx.github.io/)
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alejitocx&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alejitocx&show_icons=true&theme=dark)
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Alejitocx&layout=compact&theme=dark)
